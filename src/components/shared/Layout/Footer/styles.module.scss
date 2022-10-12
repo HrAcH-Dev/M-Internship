@@ -1,0 +1,23 @@
+.items li {
+  @apply text-white mb-4 font-normal text-base leading-1 flex items-center;
+}
+
+.links li {
+  @apply cursor-pointer;
+}
+
+.icons div {
+  @apply mr-18 cursor-pointer;
+}
+
+.box div {
+  @apply mr-2.5 mt-2 cursor-pointer;
+}
+
+.box li {
+  @apply cursor-pointer flex;
+}
+
+.box p {
+  @apply text-base font-normal leading-1;
+}
