@@ -1,0 +1,9 @@
+.listItems li {
+  @apply
+    text-base font-medium leading-1 tracking-wider pl-8 hover:text-cyan-850;
+}
+
+.line {
+  @apply
+    cursor-pointer;
+}
